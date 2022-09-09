@@ -1,0 +1,8 @@
+README.md
+setup.py
+mc920/__init__.py
+mc920.egg-info/PKG-INFO
+mc920.egg-info/SOURCES.txt
+mc920.egg-info/dependency_links.txt
+mc920.egg-info/not-zip-safe
+mc920.egg-info/top_level.txt
